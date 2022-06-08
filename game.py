@@ -1,12 +1,3 @@
-#################################################################
-# FILE : calculate_mathematical_expression
-# WRITER : noam shabat , no.amshabat1 , 206515579
-# EXERCISE : intro2cs2 ex9 2021
-# DESCRIPTION: A simple search engine that crawl's the web.
-# STUDENTS I DISCUSSED THE EXERCISE WITH:
-# WEB PAGES I USED: stackoverflow.com
-# NOTES: ...
-#################################################################
 import sys
 
 from board import Board
