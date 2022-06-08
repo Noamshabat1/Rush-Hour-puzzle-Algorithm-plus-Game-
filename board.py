@@ -1,14 +1,3 @@
-#################################################################
-# FILE : board.py
-# WRITER : noam shabat , no.amshabat1 , 206515579
-# EXERCISE : intro2cs2 ex9 2021
-# DESCRIPTION: A simple search engine that crawl's the web.
-# STUDENTS I DISCUSSED THE EXERCISE WITH:...
-# WEB PAGES I USED: stackoverflow.com
-# NOTES: ...
-#################################################################
-
-
 class Board:
     """
     this class is creating a board element to be a part of the Game as a hole &
